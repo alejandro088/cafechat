@@ -46,14 +46,11 @@
             	<h4> Te esperamos en #CafeChat para compartir buenos momentos.</h4>
 
             	<div class="links m-3">
-            		<form action="http://irc.cafechat.com.ar/" method="GET">
+            		
+            		    <a class="m-2 btn btn-primary btn-block" href="http://irc.cafechat.com.ar/#Cafe">Chatea en #Cafe!</a>
 
-						<input type="text" name="nick" class="form-control m-2" placeholder="Ingresá tu nick...">
-
-            		    <button name="canal" type="submit" class="m-2 btn btn-primary btn-block" value="#Cafe">Chatea en #cafe!</button>
-
-            		    <button name="canal" type="submit" class="m-2 btn btn-primary btn-block" value="#CafeGitano">Chatea en #cafegitano!</button>
-            	    </form>
+           		    <a class="m-2 btn btn-primary btn-block" href="http://irc.cafechat.com.ar/#CafeGitano">Chatea en #CafeGitano!</a>
+           
             	</div>
 
             </div>
