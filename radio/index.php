@@ -29,8 +29,9 @@
     		</div>
     		<div>
     			<a class="m-2 btn btn-primary" href="/radio" target="_blank"><i class="fas fa-headphones-alt"></i> Radio en vivo!</a> 
-    			<a class="btn btn-primary" href="#"><i class="fab fa-facebook-square" style="size: 5px;"></i> </a>
-    			<a class="btn btn-danger" href="#"><i class="fab fa-youtube" style="size: 5px;"></i></a>
+    			<a class="btn btn-primary" href="https://facebook.com/www.cafechat.com.ar"><i class="fab fa-facebook-square" style="size: 5px;"></i> </a>
+			<a class="btn btn-warning" href="https://www.instagram.com/irc.cafechat.com.ar/"><i class="fab fa-instagram" style="size: 5px;"></i></a>
+    			<a class="btn btn-danger" href="https://www.youtube.com/channel/UC5rusGbiKbutcnD6f941OEQ"><i class="fab fa-youtube" style="size: 5px;"></i></a>
     		</div>
 		</nav>
     </div>
